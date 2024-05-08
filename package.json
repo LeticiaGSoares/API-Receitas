@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Uma empresa deseja criar um aplicativo de receitas para ajudar os usuários a descobrir e aprender a preparar diferentes pratos. O aplicativo deve permitir aos usuários visualizar uma variedade de receitas, incluindo informações sobre ingredientes e modo de preparo.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

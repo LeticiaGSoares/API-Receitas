@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Risoto de Funghi",
+        "category": "Pratos Principais",
+        "ingredients": [
+            [
+                "Arroz arbóreo",
+                "200g"
+            ],
+            [
+                "Funghi secchi",
+                "50g"
+            ],
+            [
+                "Cebola",
+                "1 (picada)"
+            ],
+            [
+                "Dente de alho",
+                "2 (picados)"
+            ],
+            [
+                "Vinho branco seco",
+                "100ml"
+            ],
+            [
+                "Caldo de legumes",
+                "1L"
+            ],
+            [
+                "Manteiga",
+                "50g"
+            ],
+            [
+                "Queijo parmesão ralado",
+                "a gosto"
+            ],
+            [
+                "Sal",
+                "a gosto"
+            ],
+            [
+                "Pimenta",
+                "a gosto"
+            ]
+        ],
+        "how-to-prepare": "Refogue a cebola e o alho em um pouco de azeite. Adicione o arroz arbóreo e mexa por alguns minutos. Acrescente o vinho branco e deixe evaporar. Hidrate o funghi secchi em água quente por 15 minutos, escorra e pique. Adicione o funghi ao risoto e vá adicionando o caldo de legumes aos poucos, mexendo sempre, até o arroz estar cozido. Misture a manteiga e o queijo parmesão. Sirva quente, salpicado com mais queijo parmesão.",
+        "id": 1
+    },
+    {
+        "name": "Salada Caesar",
+        "category": "Saladas",
+        "ingredients": [
+            [
+                "Alface romana",
+                "-"
+            ],
+            [
+                "Croutons",
+                "-"
+            ],
+            [
+                "Parmesão em lascas",
+                "-"
+            ],
+            [
+                "Peito de frango grelhado",
+                "-"
+            ],
+            [
+                "Molho Caesar (maionese, mostarda, suco de limão, alho, anchovas, azeite, sal e pimenta)",
+                "-"
+            ]
+        ],
+        "how-to-prepare": "Lave e rasgue as folhas de alface romana. Grelhe o peito de frango e corte em tiras. Prepare o molho Caesar misturando maionese, mostarda, suco de limão, alho picado, anchovas esmagadas, azeite, sal e pimenta. Misture as folhas de alface, o frango grelhado, os croutons e as lascas de parmesão. Regue com o molho Caesar e sirva.",
+        "id": 2
+    },
+    {
+        "name": "Pavê de Chocolate",
+        "category": "Sobremesas",
+        "ingredients": [
+            [
+                "Chocolate meio amargo",
+                "200g"
+            ],
+            [
+                "Creme de leite",
+                "1 lata"
+            ],
+            [
+                "Leite condensado",
+                "1 lata"
+            ],
+            [
+                "Biscoito champanhe",
+                "1 pacote"
+            ],
+            [
+                "Leite",
+                "1 xícara"
+            ],
+            [
+                "Cacau em pó",
+                "a gosto"
+            ]
+        ],
+        "how-to-prepare": "Derreta o chocolate meio amargo em banho-maria e misture com o creme de leite. Em um refratário, faça camadas alternadas de biscoito champanhe umedecidas no leite e creme de chocolate. Leve à geladeira por algumas horas. Antes de servir, polvilhe cacau em pó por cima.",
+        "id": 3
+    }
+]
